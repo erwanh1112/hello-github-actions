@@ -1,3 +1,3 @@
 #!/bin/sh -l
 
-sh -c "echo Howdy, Partner 🤠🤠🤠🤠🤠🤠 My name is $INPUT_MY_NAME" 
+sh -c "echo Howdy, partner 🤠🤠🤠🤠🤠🤠 My name is $INPUT_MY_NAME" 
